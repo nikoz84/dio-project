@@ -12,5 +12,5 @@ Você terá 3 variáveis. Sendo elas:
 
 Imprima no console o valor que será gasto de conbustível para realizar esta viagem
 
-[Ver o código](https://github.com/nikoz84/dio-project/01-variaveis.js)
+[Ver o código](https://github.com/nikoz84/dio-project/aulas/01-variaveis.js)
 
