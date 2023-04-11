@@ -67,3 +67,9 @@ Código condição de pagamento
 ### Calcule o IMC com funções
 
 [Ver o código](https://github.com/nikoz84/dio-project/tree/main/modulo-1/03-funcoes/funcoes.js)
+
+
+### Projeto POKEDEX
+
+
+[Ver o código](https://github.com/nikoz84/dio-project/tree/main/modulo-1/05-projeto/index.html)
