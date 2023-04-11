@@ -1,4 +1,4 @@
-## Variáveis
+## Prço por litro 
 
 Faça um programa para calcular o valor de uma viagem
 
@@ -12,7 +12,7 @@ Imprima no console o valor que será gasto de conbustível para realizar esta vi
 
 [Ver o código](https://github.com/nikoz84/dio-project/tree/main/modulo-1/01-variaveis/kmPorLitro.js)
 
-## Variáveis
+## Preço por litro segundo o tipo de combustível
 
 Faça um programa para calcular o valor de uma viagem
 
@@ -62,4 +62,4 @@ Código condição de pagamento
 3. Parcelado em até duas vezes, preço normal sem juros
 4. Parcelado em mais de duas vezes, preço normal com juro de 10%
 
-[Ver o código](https://github.com/nikoz84/dio-project/tree/main/modulo-1/02-condicionais/04-produto.js)
+[Ver o código](https://github.com/nikoz84/dio-project/tree/main/modulo-1/02-condicionais/produto.js)
