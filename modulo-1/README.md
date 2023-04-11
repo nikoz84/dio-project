@@ -1,4 +1,4 @@
-## Prço por litro 
+## Preço por litro 
 
 Faça um programa para calcular o valor de uma viagem
 

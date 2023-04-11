@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url('../fonts/quicksand/Quicksand-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: "Quicksand Regular";
+    src: url('../fonts/quicksand/Quicksand-Regular.woff2');
+}
+@font-face {
+    font-family: "Quicksand Light";
+    src: url('../fonts/quicksand/Quicksand-Light.woff2') format('woff2');
+}
+
+:root {
+    --shadow-var: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    --font-quicksand-bold: "Quicksand", Helvetica, sans-serif;
+    --font-quicksand-regular: "Quicksand Regular", Helvetica, sans-serif;
+    --font-quicksand-ligth: "Quicksand Light", Helvetica, sans-serif;
+}
+
+
+body {
+    background-color: #191e1f;
+}
+h1 {
+    color: #17acd1;
+    font-size: 1.5em;
+    text-align: center;
+    opacity: 1;
+    font-family: var(--font-quicksand-bold);
+}
+p {
+    padding: 30px;
+    color: #c7cad8;
+}
+.button {
+    background-color: #1387ca;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    cursor:pointer;
+    transition-duration: 0.4s;
+    box-shadow: var(--shadow-var);
+    font-family: var(--font-quicksand-ligth);
+}
+
+.button:hover{
+    background-color: #073458;
+    color: #7dd1e2;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+}
+
+.button-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    box-shadow: var(--shadow-var);
+    padding: 30px;
+    margin: 15px;
+    font-family: var(--font-quicksand-regular);
+}
