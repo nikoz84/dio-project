@@ -63,3 +63,7 @@ Código condição de pagamento
 4. Parcelado em mais de duas vezes, preço normal com juro de 10%
 
 [Ver o código](https://github.com/nikoz84/dio-project/tree/main/modulo-1/02-condicionais/produto.js)
+
+### Calcule o IMC com funções
+
+[Ver o código](https://github.com/nikoz84/dio-project/tree/main/modulo-1/03-funcoes/funcoes.js)
